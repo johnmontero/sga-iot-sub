@@ -14,6 +14,7 @@ Help
 
 Commands
 --------
+```sh
 Development commands for project sga_iot_sub
 
 Usage: make COMMAND
@@ -33,3 +34,4 @@ Commands:
   start            Up the docker containers, use me with: make start
   status           Show containers status, use me with: make status
   stop             Stops the docker containers, use me with: make stop
+```
