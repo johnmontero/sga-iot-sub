@@ -21,7 +21,7 @@ Usage: make COMMAND
 
 Targets:
 
-  app            Application sga-oti-sub
+  app            Application sga-iot-sub
 
 Commands:
 

@@ -42,7 +42,7 @@ help:
 	@echo
 	@echo 'Targets:'
 	@echo
-	@echo '  app            Application sga-oti-sub'
+	@echo '  app            Application sga-iot-sub'
 	@echo
 	@echo 'Commands:'
 	@echo
